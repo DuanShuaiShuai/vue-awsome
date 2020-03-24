@@ -1,0 +1,13 @@
+{
+    "extends": [
+      "standard",
+      "plugin:vue/essential"
+    ],
+    "parserOptions":{
+      "parser":"babel-eslint",
+    },
+    "plugins":[
+        "html",
+        "vue"
+    ]
+}
